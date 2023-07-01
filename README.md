@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Santiago</h1>
+<h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">Un desarrollador apasionado de Colombia</h3>
 
 
@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **santiag.anzola1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## :link: Connect with me: 
 <p align="left">
 <a href="https://linkedin.com/in/santiago-anzola-alvarez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-anzola-alvarez-" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## :hammer_and_wrench:Languages and Tools:
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -36,7 +36,8 @@
   <a href="https://www.maya.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/SantiagoAnzola1/SantiagoAnzola1/assets/134959710/94f05d49-4d77-45b5-973d-65a838e88a01" alt="Maya" width="40" height="40"/></a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+  
+## 	:part_alternation_mark: Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoanzola1&show_icons=true&locale=en&layout=compact" alt="santiagoanzola1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagoanzola1&show_icons=true&locale=en" alt="santiagoanzola1" /></p>
