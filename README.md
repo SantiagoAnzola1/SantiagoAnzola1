@@ -42,6 +42,15 @@ Hey there! I'm Santiago Andrés Anzola Álvarez, a Multimedia Engineering studen
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
   
+## :art: Design:
+- [x] I have a strong sense of aesthetics and pay attention to detail when creating visually appealing designs.
+- [x] I'm familiar with design tools like Adobe Photoshop, After Effects, Figma, and Maya.
+- [x] I can work closely with designers to bring their concepts to life and ensure seamless integration of design and development.
+## 📚 Education:
+- [x] 9th semester Multimedia Ingeeniering.
+- [x] Oracle One (studying). 
+## :dart: Goals and Aspirations: 
+My ultimate goal is to become a skilled full-stack web developer, equipped with the versatility to work with diverse tools and technologies. I'm committed to continuous learning and growth within the ever-evolving field of web development.   
 ## 	:part_alternation_mark: Stats:
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoanzola1&show_icons=true&locale=en&layout=compact" alt="santiagoanzola1" /></p>
 
