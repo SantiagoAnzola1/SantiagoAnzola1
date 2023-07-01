@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, soy Santiago</h1>
 <h3 align="center">Un desarrollador apasionado de Colombia</h3>
 
-##
 
 <p align="center">
   | <span>Español</span> |
   <a href="https://github.com/SantiagoAnzola1/SantiagoAnzola1/blob/main/README.md">English</a> |
 </p>
+<br>
 
-##
+
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB, Express, React, NodeJS, Tailwind**
 
