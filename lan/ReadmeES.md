@@ -43,6 +43,16 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+## :art: Diseño:
+- [x] Tengo un fuerte sentido estético y presto atención a los detalles al crear diseños visualmente atractivos.
+- [x] Estoy familiarizado/a con herramientas de diseño como Adobe Photoshop, After Effects, Figma y Maya.
+- [x] Puedo trabajar en estrecha colaboración con diseñadores para hacer realidad sus conceptos y garantizar una integración perfecta entre diseño y desarrollo.
+## 📚 Education:
+- [x] Noveno semestre de Ingeniería Multimedia.
+- [x] Oracle One (cursando). 
+## :dart: Goals and Aspirations: 
+Mi objetivo es convertirme en un desarrollador web full-stack capacitado, con la versatilidad para trabajar con diversas herramientas y tecnologías. Estoy comprometido con el aprendizaje continuo y con crecimiento en el campo con constante evolución, enfocado en el desarrollo web.
+
 ## 	:part_alternation_mark: Estadísticas:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoanzola1&show_icons=true&locale=en&layout=compact" alt="santiagoanzola1" /></p>
 
