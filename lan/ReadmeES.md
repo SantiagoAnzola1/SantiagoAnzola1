@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  | <span>Español</span> |
-  <a href="https://github.com/SantiagoAnzola1/SantiagoAnzola1/blob/main/README.md">English</a> |
+  | <a href="https://github.com/SantiagoAnzola1/SantiagoAnzola1/blob/main/README.md">English</a> | 
+    <span>Español</span> |
 </p>
 <br>
 
