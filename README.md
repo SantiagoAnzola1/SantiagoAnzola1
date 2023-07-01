@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">Un desarrollador apasionado de Colombia</h3>
+<h4 align="justify">
+Hey there! I'm Santiago Andrés Anzola Álvarez, a Multimedia Engineering student currently in my 9th semester. Although I'm still in the learning phase, I'm passionate about web development, with a strong background in programming and a keen eye for design. I believe in creating meaningful and user-friendly digital experiences that not only look great but also solve real-world problems. Besides, I am constantly honing my skills in various technologies.</h4>
 
 
 <p align="center">
@@ -42,7 +43,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
   
 ## 	:part_alternation_mark: Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoanzola1&show_icons=true&locale=en&layout=compact" alt="santiagoanzola1" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoanzola1&show_icons=true&locale=en&layout=compact" alt="santiagoanzola1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagoanzola1&show_icons=true&locale=en" alt="santiagoanzola1" /></p>
 
