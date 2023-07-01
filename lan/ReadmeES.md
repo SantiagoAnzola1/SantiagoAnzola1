@@ -1,5 +1,6 @@
+
 <h1 align="center">Hola 👋, soy Santiago</h1>
-<h3 align="center">Un desarrollador apasionado de Colombia</h3>
+<h4 align="justify">¡Hola! Soy Santiago Andrés Anzola Álvarez, estudiante de Ingeniería Multimedia actualmente me encuentro cursando noveno semestre. Aunque todavía estoy en la etapa de aprendizaje soy apasionado por el desarrollo web, con una sólida base en programación y creativo para el diseño. Creo en la importancia de desarrollar experiencias digitales significativas y amigables para el usuario, que no solo luzcan agradables, sino que también resuelvan problemas del mundo real. Además, constantemente estoy perfeccionando mis habilidades en diversas tecnologías.</h4>
 
 
 <p align="center">
