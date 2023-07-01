@@ -2,6 +2,12 @@
 <h3 align="center">Un desarrollador apasionado de Colombia</h3>
 
 
+<p align="center">
+  | <span>English</span> |
+  <a href="https://github.com/SantiagoAnzola1/SantiagoAnzola1/blob/main/lan/ReadmeES.md">Español</a> |
+</p>
+<br>
+
 
 ##
 
