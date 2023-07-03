@@ -38,8 +38,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/co/products/aftereffects.html" target="_blank" rel="noreferrer">  <img src="https://github.com/SantiagoAnzola1/SantiagoAnzola1/assets/134959710/0b530495-464b-4c1f-a024-0bfca9518244" alt="afterEffects" width="40" height="40"/> </a> 
-  <a href="https://www.maya.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/SantiagoAnzola1/SantiagoAnzola1/assets/134959710/94f05d49-4d77-45b5-973d-65a838e88a01" alt="Maya" width="40" height="40"/></a> 
+  <a href="https://www.adobe.com/co/products/aftereffects.html" target="_blank" rel="noreferrer">  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134959710/249990529-0b530495-464b-4c1f-a024-0bfca9518244.png" alt="afterEffects" width="40" height="40"/> </a> 
+  <a href="https://latinoamerica.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134959710/249986469-94f05d49-4d77-45b5-973d-65a838e88a01.png" alt="Maya" width="40" height="40"/></a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
