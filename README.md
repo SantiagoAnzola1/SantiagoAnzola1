@@ -10,7 +10,7 @@ Hey there! I'm Santiago Andrés Anzola Álvarez, a Multimedia Engineering studen
 <br>
 
 
-- 🌱 I’m currently learning **MongoDB, Express, React, NodeJS, Tailwind**
+- 🔥 I’m currently learning **MongoDB, Express, React, NodeJS, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantiagoAnzola1](https://github.com/SantiagoAnzola1)
 
