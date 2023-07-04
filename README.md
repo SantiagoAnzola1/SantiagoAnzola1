@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
+<h1 align="center">Hey there! 👋, I'm Santiago</h1>
 <h4 align="justify">
-Hey there! I'm Santiago Andrés Anzola Álvarez, a Multimedia Engineering student currently in my 9th semester. Although I'm still in the learning phase, I'm passionate about web development, with a strong background in programming and a keen eye for design. I believe in creating meaningful and user-friendly digital experiences that not only look great but also solve real-world problems. Besides, I am constantly honing my skills in various technologies.</h4>
+Multimedia Engineering student currently in the 9th semester, with a passion for web development and a strong background in programming. Creative for design and a dedication to creating meaningful and user-friendly digital experiences that solve real-world problems. Constantly hones skills in various technologies.</h4>
 
 
 <p align="center">
