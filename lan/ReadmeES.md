@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola! 👋, soy Santiago</h1>
-<h4 align="justify">Estudiante de Ingeniería Multimedia actualmente en el noveno semestre, apasionado por el desarrollo web y con amplios conocimientos en programación. Creativo en diseño y dedicado a crear experiencias digitales significativas y amigables para el usuario que resuelvan problemas del mundo real. Constantemente perfecciona habilidades en diversas tecnologías..</h4>
+<h4 align="justify">Estudiante de Ingeniería Multimedia actualmente en el noveno semestre, apasionado por el desarrollo web y con amplios conocimientos en programación. Creativo en diseño y dedicado a crear experiencias digitales significativas y amigables para el usuario que resuelvan problemas del mundo real. Constantemente perfecciona habilidades en diversas tecnologías.</h4>
 
 
 <p align="center">
