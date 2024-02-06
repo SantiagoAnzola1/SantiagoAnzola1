@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Santiago</h1>
 <h4 align="justify">
-Multimedia Engineering student currently in the 9th semester, with a passion for web development and a strong background in programming. Creative for design and a dedication to creating meaningful and user-friendly digital experiences that solve real-world problems. Constantly hones skills in various technologies.</h4>
+Multimedia Engineering student currently in the 10th semester, with a passion for web development and a strong background in programming. Creative for design and a dedication to creating meaningful and user-friendly digital experiences that solve real-world problems. Constantly hones skills in various technologies.</h4>
 
 
 <p align="center">
