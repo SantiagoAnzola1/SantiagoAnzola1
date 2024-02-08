@@ -28,7 +28,7 @@
 
 •  | C# | .NET | Java | HTML | CSS | JavaScript | Boostrap | C++ | Python | Processing | SQL | Git     
 •  | Maya | Mudbox | ZBrush | Unity | Photoshop | After Effects | Figma   
-•  English, Spanish.
+•  Inglés, Español.
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" height="40"/> </a> 
