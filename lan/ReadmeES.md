@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/santiago-anzola-alvarez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-anzola-alvarez-" height="30" width="40" /></a>
 </p>
 
-## :hammer_and_wrench: Lenguajes y herramientas:
+## :hammer_and_wrench: Habilidades, Lenguajes y Herramientas:
 
 •  | C# | .NET | Java | HTML | CSS | JavaScript | Boostrap | C++ | Python | Processing | SQL | Git     
 •  | Maya | Mudbox | ZBrush | Unity | Photoshop | After Effects | Figma   
