@@ -54,7 +54,7 @@
 - [x] Puedo trabajar en estrecha colaboración con diseñadores para hacer realidad sus conceptos y garantizar una integración perfecta entre diseño y desarrollo.
 ## 📚 Education:
 - [x] Noveno semestre de Ingeniería Multimedia.
-- [x] Oracle One (cursando). 
+- [x] Oracle One. 
 ## :dart: Goals and Aspirations: 
 Mi objetivo es convertirme en un desarrollador web full-stack capacitado, con la versatilidad para trabajar con diversas herramientas y tecnologías. Estoy comprometido con el aprendizaje continuo y con crecimiento en el campo con constante evolución, enfocado en el desarrollo web.
 
