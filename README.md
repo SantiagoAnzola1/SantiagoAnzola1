@@ -50,7 +50,7 @@ Multimedia Engineering student currently in the 10th semester, with a passion fo
 - [x] I'm familiar with design tools like Adobe Photoshop, After Effects, Figma, and Maya.
 - [x] I can work closely with designers to bring their concepts to life and ensure seamless integration of design and development.
 ## 📚 Education:
-- [x] 9th semester Multimedia Ingeeniering.
+- [x] 10th semester Multimedia Ingeeniering.
 - [x] Oracle One. 
 ## :dart: Goals and Aspirations: 
 My ultimate goal is to become a skilled full-stack web developer, equipped with the versatility to work with diverse tools and technologies. I'm committed to continuous learning and growth within the ever-evolving field of web development.   
