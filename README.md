@@ -12,7 +12,9 @@ Multimedia Engineering student currently in the 10th semester, with a passion fo
 
 - 🔥 I’m currently learning **MongoDB, Express, React, NodeJS, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SantiagoAnzola1](https://github.com/SantiagoAnzola1)
+- 👨‍💻 All of my projects are available at:
+    -   [Academic GitHub](https://github.com/SantiagoAnzola)
+    -   [Personal GitHub](https://github.com/SantiagoAnzola1)
 
 - 💬 Ask me about **Javascript, HTML, CSS, SQL, ASP.NET, Java, C#, Python**
 
