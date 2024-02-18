@@ -13,7 +13,9 @@
 
 - 🔥 Actualmente estoy aprendiendo **MongoDB, Express, React, NodeJS, Tailwind**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/SantiagoAnzola1](https://github.com/SantiagoAnzola1)
+- 👨‍💻 Todos mis proyectos estan disponibles en:
+    -   [Github Académico](https://github.com/SantiagoAnzola)
+    -   [Github Personal](https://github.com/SantiagoAnzola1)
 
 - 💬 Pregúntame sobre **Javascript, HTML, CSS, SQL, ASP.NET, Java, C#, Python**
 
